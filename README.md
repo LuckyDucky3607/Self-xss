@@ -1,10 +1,10 @@
-# Self-XSS v1.0
+# Self-XSS v1.2
 ## Author: github.com/thelinuxchoice/self-xss
 ## Twitter: twitter.com/linux_choice
 
 Self-XSS attack using bit.ly to grab cookies tricking users into running malicious code
 
-![sx](https://user-images.githubusercontent.com/34893261/66534890-1233a000-eaee-11e9-9a65-8b4ccd419a63.png)
+![80316591-0501a880-87d5-11ea-95f0-b8d4fc529bc4](https://user-images.githubusercontent.com/100312261/159116908-e7c45958-ddad-4842-88d7-41bee65a4594.png)
 
 ### How it works?
 
